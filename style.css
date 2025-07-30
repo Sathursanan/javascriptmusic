@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-image: url(image/background.jpg);
+    
+}
+h1 {
+    font-size: 5rem;
+    color: lightblue;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 gray;
+  
+}
+.box{
+    margin: 10% auto;
+
+}
+.H {
+    background-image: url(image/smile.jpg);
+    background-size: cover;
+}
+.L {
+    background-image: url(image/love.jpg);
+    background-size: cover; 
+   
+}
+.S {
+    background-image: url(image/sad.jpg);
+    background-size: cover;
+}
+.emoji {
+    outline: none;
+    border: 10px solid lightgrey;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: lightcoral;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: left;
+    margin: 10px;
+    background-color: white;
+  }
+  
